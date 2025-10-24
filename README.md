@@ -36,7 +36,7 @@ conversion worked before moving on.
 
 ## Converting your Own Dataset to RLDS
 
-> Go to `rlds_dataset_builder/le_robot_to_rlds/prepare_lerobot_dataset_npy.ipynb` for a two-steps example of converting LeRobot dataset to RLDS dataset.
+> Go to [`rlds_dataset_builder/le_robot_to_rlds/prepare_lerobot_dataset_npy.ipynb`](le_robot_to_rlds/prepare_lerobot_dataset_npy.ipynb)for a two-steps example of converting LeRobot dataset to RLDS dataset.
 
 Now we can modify the provided example to convert your own data. Follow the steps below:
 
